@@ -1,7 +1,7 @@
 # react_vite_shopping_cart
 This React shopping cart project is made with React Vite using Typescript and React Bootstrap. 
 
-To deploy this React Vite application type: 
+Assuming you've pulled this project: to deploy this React Vite application type: 
 ```
     npm run dev
 ```

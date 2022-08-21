@@ -11,4 +11,5 @@ This will launch the development server for this React Vite project. After this,
 
 Connect to the local with the browser of your choice to inspect the project. To see the shopping cart in action, click the "store" tab.
 ![image](https://user-images.githubusercontent.com/73889850/185573686-742e8873-e22e-473c-9423-60babd33a683.png)
+
 Pick items to your cart to your heart's extent!
